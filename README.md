@@ -8,7 +8,8 @@ To set up the environment, create and activate the Conda environment using the p
 
 ```bash
 conda env create -f environment.yml
-conda activate myenv
+conda activate econenv
+conda install -c conda-forge root
 ```
 
 ## CAE Description
