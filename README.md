@@ -80,9 +80,9 @@ test_hyperband_search/
     │       ├── performance_records.csv            # val_loss vs seed
     │       └── final_val_loss.csv                 # seed vs larger‑dataset loss
     ├── best_model_eLink_5_post_seed_variation/    # Best model + weights
-    ├── best_model_eLink_5_post_seed_variation_for_CMSSW/
-    ├── best_model_eLink_5_post_seed_variation_larger_dataset/
-    └── best_model_eLink_5_post_seed_variation_larger_dataset_for_CMSSW/
+    ├── best_model_eLink_5_post_seed_variation_for_CMSSW/ # CMSSW-ready files for best model
+    ├── best_model_eLink_5_post_seed_variation_larger_dataset/ # Best model on a larget dataset + weights
+    └── best_model_eLink_5_post_seed_variation_larger_dataset_for_CMSSW/ # CMSSW-ready files for best model on the larger dataset
 ```
 
 ---
