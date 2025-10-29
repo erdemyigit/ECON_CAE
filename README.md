@@ -141,6 +141,7 @@ python run_hyperband_search.py \
 - `utils/utils.py`: General utility functions.
 - `utils/telescope.py`: Telescope loss function.
 - `utils/files.py`: File I/O helper functions.
+- `LatentSpace_Visualization_Recipe.ipynb`: Latent space visualization
 
-## Additional Information
-For more details on each script and its usage, please refer to inline comments and docstrings within the code files. If you encounter any issues, feel free to open an issue or submit a pull request.
+## CMSSW Processing and the plotting script
+Please refer to the [ECON_CAE_Pipeline Document](https://docs.google.com/document/d/1rFesqtG2wraVT74RyEUB6Ck0vqjd2Gn-G8LA32mphLg/edit?tab=t.0)
