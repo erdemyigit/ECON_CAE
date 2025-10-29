@@ -8,7 +8,7 @@ To set up the environment, create and activate the Conda environment using the p
 
 ```bash
 conda env create -f environment.yml
-conda activate econ_qae
+conda activate myenv
 ```
 
 ## CAE Description
