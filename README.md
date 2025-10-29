@@ -1,4 +1,4 @@
-# ECON_QAE_Training
+# ECON_CAE
 
 ## Overview
 This repository provides code for training and evaluating Quantized Conditional Autoencoders (CAE) as part of the Endcap Concentrator Trigger (ECON-T) project. The code is organized into various scripts for data processing, model training and evaluation as well as representing the learned latent space of the encoder.
