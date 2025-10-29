@@ -33,7 +33,7 @@ python process_data.py --opath test_data_saving --num_files 2 --model_per_eLink 
 Arguments:
 - `--opath`: Output directory for saved data.
 - `--num_files`: Number of ntuples to preprocess.
-- `--model_per_eLink`: Trains a unique CAE per possible eLink allocation.
+- `--model_per_eLink`: Trains a unique CAE per possible eLink allocation (choose 2,3,4 or 5).
 - `--model_per_bit_config`: Trains a unique CAE per possible bit allocation.
 - `--biased`: Resamples the dataset so that n% of the data is signal and (1-n)% is background (specify n as a float).
 - `--save_every_n_files`: Number of ntuples to combine per preprocessed output file.
